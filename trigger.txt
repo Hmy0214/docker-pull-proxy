@@ -1,1 +1,1 @@
-redis registry.cn-hangzhou.aliyuncs.com/my0214163/redis
+nginx:alpine registry.cn-hangzhou.aliyuncs.com/my0214163/nginx:alpine
