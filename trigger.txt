@@ -1,1 +1,1 @@
-mysql:5.7 registry.cn-hangzhou.aliyuncs.com/my0214163/mysql:5.7
+centos registry.cn-hangzhou.aliyuncs.com/my0214163/centos
