@@ -1,1 +1,1 @@
-centos registry.cn-hangzhou.aliyuncs.com/my0214163/centos
+redis registry.cn-hangzhou.aliyuncs.com/my0214163/redis
