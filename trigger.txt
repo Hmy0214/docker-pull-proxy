@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-hangzhou.aliyuncs.com/my0214163/nginx:alpine
+kibana:tag registry.cn-hangzhou.aliyuncs.com/my0214163/kibana：tag
