@@ -1,1 +1,1 @@
-jre:8u211-data registry.cn-hangzhou.aliyuncs.com/my0214163/jre:8u211-data
+jre:8u211 registry.cn-hangzhou.aliyuncs.com/my0214163/jre:8u211
